@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rajagiri School of Engineering and Technology</title>
+    <link rel="stylesheet" href="RAJAIRI.CSS">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Rajagiri School of Engineering and Technology</h1>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Academics</a></li>
+            <li><a href="#">Admissions</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="welcome">
+            <h2>Welcome to RSET</h2>
+            <p>Your future in engineering starts here. Discover our programs, faculty, and community.</p>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Rajagiri School of Engineering and Technology. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
